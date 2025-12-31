@@ -75,7 +75,7 @@ Using Matplotlib and Seaborn, I visualized the Titanic dataset to better underst
 - Violin plot
 
 ### Saved visualizations:
-- `visualizations/age_distribution.jpeg`
+!['age'](visualizations/age_distribution.jpeg)
 - `visualizations/age_vs_fare.jpeg`
 - `visualizations/correlation.png`
 - `visualizations/pairplot.jpg`
