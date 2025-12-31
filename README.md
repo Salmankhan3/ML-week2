@@ -6,8 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/SalmanKhan3/ML-week2)
 ## Description:
-### In this note book I documented my progress for ML internship batch-2 at Neuro app.
+In this note book I documented my progress for ML internship batch-2 at Neuro app.
 ## Table of Content
-![numpy]#NumPy-Array-Operations (3 hours) 
+![numpy](#NumPy-Array-Operations (3 hours) ) <br>
 
 *NumPy Array Operations (3 hours) :
