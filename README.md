@@ -10,4 +10,4 @@ In this note book I documented my progress for ML internship batch-2 at Neuro ap
 ## Table of Content
 ![numpy](#NumPy-Array-Operations (3 hours) ) <br>
 
-*NumPy Array Operations (3 hours) :
+## NumPy Array Operations (3 hours) :
