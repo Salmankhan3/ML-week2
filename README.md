@@ -49,11 +49,11 @@ Main plot used is this notebook is :
 -violinplot
 
 All plot are saved in visualiztion folder of repository.
-(visualizaions/age_destribution.jpeg)
-(visualizaions/age_vs_faire.jpeg)
-(visualizaions/Corelation.png)
-(visualizaions/pairplot.jpg)
-(visualizaions/voilin_plot.jpg)
+!['age_destribution'](visualizaions/age_destribution.jpeg)
+![age_vs_faire](visualizaions/age_vs_faire.jpeg)
+![Corelation](visualizaions/Corelation.png)
+![pairplot]visualizaions/pairplot.jpg)
+!['voilin_plot'](visualizaions/voilin_plot.jpg)
 
 ##  Object-Oriented Programming for ML (3 hours) 
 Object Orainted programing also abbrivated as OOP is one the most popular style of programing.in this repo i have implemeted class called DataPreprocessor and write few method for data preprocessing.
