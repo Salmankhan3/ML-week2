@@ -8,10 +8,10 @@
 ## Description:
 In this note book I documented my progress for ML internship batch-2 at Neuro app.
 ## Table of Content
--![numpy](#NumPy-Array-Operations-(3 hours) ) <br>
--![pandas](#Pandas-Data-manipulation-(4 hours)) <br>
--![matplotlib](#Data-Visualization-with-Matplotlib-&-Seaborn-(3 hours)) <br>
--![oop](#Object-Oriented-Programming-for-ML-(3 hours) )
+-![numpy](#NumPy-Array-Operations ) <br>
+-![pandas](#Pandas-Data-manipulation)) <br>
+-![matplotlib](#Data-Visualization-with-Matplotlib-&-Seaborn)) <br>
+-![oop](#Object-Oriented-Programming-for-ML )
 
 ## NumPy Array Operations (3 hours) 
 create an array using np.array, Perform verious array operation such as reshape that change the shape of an array, practice arra slicing and verious mathematical operations such as addition,subtraction multiplication,matmul and dot product. here is the screenshots:
