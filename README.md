@@ -76,10 +76,12 @@ Using Matplotlib and Seaborn, I visualized the Titanic dataset to better underst
 
 ### Saved visualizations:
 !['age'](visualizations/age_destribution.jpeg)
-- `visualizations/age_vs_fare.jpeg`
-- `visualizations/correlation.png`
-- `visualizations/pairplot.jpg`
-- `visualizations/violin_plot.jpg`
+!['age_vs_fare'](isualizations/age_vs_fare.jpeg)
+!['correlation'](visualizations/Corelation.png)
+!['pair plot'](visualizations/pairplot.jpg)
+!['srvival Rate'](visualizations/survival_rate.png)
+!['voilin plot'](visualizations/voilin_plot.jpg)
+!['Pasenger_class_dest'](visualizations/Pasenger_class_dest.png)
 
 ---
 
