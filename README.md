@@ -30,7 +30,11 @@ create an array using np.array, Perform verious array operation such as reshape 
 ## Pandas Data Manipulation (4 hours) <br>
 In This notebook we have explore and manipulate titanic data set , handle mssing value and draw verious matplotlib plots to understand the data well.
 Cleaned the data set by droping and replacing null values.Display the statistic fo data set. Add new features such as 
--FamilySize -Isalone	-Title	-Ischild	-Has cabin.
+- FamilySize
+- Isalone
+- Title
+- Ischild
+- Has cabin.
 
 ## Data Visualization with Matplotlib & Seaborn (3 hours) 
 Using matplotlib we visualize and explore titanic data set.using various matplotlib and seaborn plots to show the data more deeply understand data at highlevel and show relationship between variables.
