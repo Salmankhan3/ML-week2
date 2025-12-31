@@ -1,64 +1,108 @@
-# Week 2: Python Fundamentals for ML
+# Week 2: Python Fundamentals for Machine Learning
+
 ![GitHub stars](https://img.shields.io/github/stars/SalmanKhan3/ML-Internship-B01?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SalmanKhan3/ML-Internship-B01?style=social)
-![Intership](https://img.shields.io/badge/ML%20Internship-B01-red)
-![MIT licence](https://img.shields.io/badge/License%20%20-MIT-green)
+![Internship](https://img.shields.io/badge/ML%20Internship-B01-red)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/SalmanKhan3/ML-week2) <br><br>
-## Description:
-In this note book I documented my progress for ML internship batch-2 at Neuro app.
-## Table of Content
--[Numpy Array Operation](#NumPy-Array-Operations ) <br>
--[Pandas Data manipulation)](#Pandas-Data-manipulation) <br>
--[Data Visualization with Matplotlib & Seaborn](#Data-Visualization-with-Matplotlib-&-Seaborn) <br>
--[Object-Oriented-Programming-for-ML](#Object-Oriented-Programming-for-ML )
+![GitHub Repo Size](https://img.shields.io/github/repo-size/SalmanKhan3/ML-week2)
 
-## NumPy Array Operations (3 hours) 
-create an array using np.array, Perform verious array operation such as reshape that change the shape of an array, practice arra slicing and verious mathematical operations such as addition,subtraction multiplication,matmul and dot product. here is the screenshots:
-![numpy array](screenshots/Screenshot%20(131).png)
-![numpy array](screenshots/Screenshot%20(132).png)
-![numpy array](screenshots/Screenshot%20(133).png)
-![numpy array](screenshots/Screenshot%20(134).png)
-![numpy array](screenshots/Screenshot%20(135).png)
-![numpy array](screenshots/Screenshot%20(136).png)
-![numpy array](screenshots/Screenshot%20(137).png)
-![numpy array](screenshots/Screenshot%20(138).png)
-![numpy array](screenshots/Screenshot%20(139).png)
-![numpy array](screenshots/Screenshot%20(140).png)
+---
 
+## 📘 Description
+This notebook documents my learning progress for **Week 2 of the ML Internship (Batch-2) at Neuro App**.  
+The focus of this week was building a strong foundation in **Python for Machine Learning**, including NumPy, Pandas, data visualization, and object-oriented programming.
 
-## Pandas Data Manipulation (4 hours) <br>
-In This notebook we have explore and manipulate titanic data set , handle mssing value and draw verious matplotlib plots to understand the data well.
-Cleaned the data set by droping and replacing null values.Display the statistic fo data set. Add new features such as 
-- FamilySize
-- Isalone
-- Title
-- Ischild
-- Has cabin.
+---
 
-## Data Visualization with Matplotlib & Seaborn (3 hours) 
-Using matplotlib we visualize and explore titanic data set.using various matplotlib and seaborn plots to show the data more deeply understand data at highlevel and show relationship between variables.
-Main plot used is this notebook is :
--Bar plot
--Histogram
--Line plot
--Pairplot
--Scatter plot
--Heatmap
--boxplot
--violinplot
+## 📑 Table of Contents
+- [NumPy Array Operations](#numpy-array-operations)
+- [Pandas Data Manipulation](#pandas-data-manipulation)
+- [Data Visualization with Matplotlib & Seaborn](#data-visualization-with-matplotlib--seaborn)
+- [Object-Oriented Programming for ML](#object-oriented-programming-for-ml)
 
-All plot are saved in visualiztion folder of repository.
-![age_destribution](visualizaions/age_destribution.jpeg)
-![age_vs_faire](visualizaions/age_vs_faire.jpeg)
-![Corelation](visualizaions/Corelation.png)
-![pairplot](visualizaions/pairplot.jpg)
-![voilin_plot](visualizaions/voilin_plot.jpg)
+---
 
-##  Object-Oriented Programming for ML (3 hours) 
-Object Orainted programing also abbrivated as OOP is one the most popular style of programing.in this repo i have implemeted class called DataPreprocessor and write few method for data preprocessing.
-I have write load method that load data set, handle_missing_values method that remove and replace missing values and return a cleaned data set.Furthur i use encode_catagorical method that encode 'sex' and 'Embarked' column of titanic dataset using sklearn LabelEncoder.
-use scale_features method to scale feature using Standart scalar and split method that split data set into train and test set.The outcome of this note book is cleaned,encoded,scaled and splited data set tailored of Machine Learning Algorithm
+## NumPy Array Operations (3 hours)
+In this section, I practiced:
+- Creating arrays using `np.array`
+- Reshaping arrays
+- Array slicing and indexing
+- Mathematical operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Matrix multiplication
+  - Dot product
 
+### Screenshots
+![numpy](screenshots/Screenshot%20(131).png)
+![numpy](screenshots/Screenshot%20(132).png)
+![numpy](screenshots/Screenshot%20(133).png)
+![numpy](screenshots/Screenshot%20(134).png)
+![numpy](screenshots/Screenshot%20(135).png)
+![numpy](screenshots/Screenshot%20(136).png)
+![numpy](screenshots/Screenshot%20(137).png)
+![numpy](screenshots/Screenshot%20(138).png)
+![numpy](screenshots/Screenshot%20(139).png)
+##  Pandas Data Manipulation (4 hours)
+In this notebook, I explored and manipulated the **Titanic dataset** using Pandas.
+
+### Tasks performed:
+- Data exploration and summary statistics
+- Handling missing values (dropping and imputing)
+- Feature engineering:
+  - `FamilySize`
+  - `IsAlone`
+  - `Title`
+  - `IsChild`
+  - `HasCabin`
+
+This step helped in preparing a cleaner and more informative dataset for ML models.
 
 
+## 📊 Data Visualization with Matplotlib & Seaborn (3 hours)
+Using Matplotlib and Seaborn, I visualized the Titanic dataset to better understand relationships between features.
+
+### Plots created:
+- Bar plot
+- Histogram
+- Line plot
+- Pair plot
+- Scatter plot
+- Heatmap
+- Box plot
+- Violin plot
+
+### Saved visualizations:
+- `visualizations/age_distribution.jpeg`
+- `visualizations/age_vs_fare.jpeg`
+- `visualizations/correlation.png`
+- `visualizations/pairplot.jpg`
+- `visualizations/violin_plot.jpg`
+
+---
+
+##  Object-Oriented Programming for ML (3 hours)
+In this section, I applied **Object-Oriented Programming (OOP)** principles to machine learning workflows.
+
+### Implemented class: `DataPreprocessor`
+Methods included:
+- `load_data()` – Load the dataset
+- `handle_missing_values()` – Clean missing data
+- `encode_categorical()` – Encode categorical variables (`sex`, `embarked`)
+- `scale_features()` – Scale numerical features using `StandardScaler`
+- `split_data()` – Split data into training and testing sets
+
+### Outcome
+A **cleaned, encoded, scaled, and split dataset**, ready for machine learning algorithms.
+
+---
+
+## 🚀 Skills Gained
+- NumPy for numerical computation
+- Pandas for data manipulation
+- Data visualization with Matplotlib & Seaborn
+- Feature engineering
+- OOP for ML pipelines
+- Data preprocessing best practices
