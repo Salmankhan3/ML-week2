@@ -11,3 +11,5 @@ In this note book I documented my progress for ML internship batch-2 at Neuro ap
 ![numpy](#NumPy-Array-Operations (3 hours) ) <br>
 
 ## NumPy Array Operations (3 hours) 
+create an array using np.array, Perform verious array operation such as reshape that change the shape of an array, practice arra slicing and verious mathematical operations such as addition,subtraction multiplication,matmul and dot product. here is the screenshots:
+![numpy array](#screenshots/Screenshot(131))
