@@ -108,6 +108,15 @@ Methods included:
 - `scale_features()` – Scale numerical features using `StandardScaler`
 - `split_data()` – Split data into training and testing sets
 
+  <br>
+#### Data Preprocessor class
+!['Data Preprocessor class'](screenshots/Screenshot%20(156).png) <br>
+### main method <br>
+!['main method'](screenshots/Screenshot%20(157).png) <br>
+### Output
+!['main method'](screenshots/Screenshot%20(159).png) <br>
+!['main method'](screenshots/Screenshot%20(160).png) <br>
+!['main method'](screenshots/Screenshot%20(161).png) <br>
 ### Outcome
 A **cleaned, encoded, scaled, and split dataset**, ready for machine learning algorithms.
 
