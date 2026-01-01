@@ -57,18 +57,20 @@ In this notebook, I explored and manipulated the **Titanic dataset** using Panda
   - `Title`
   - `IsChild`
   - `HasCabin`
+ 
+    This step helped in preparing a cleaner and more informative dataset for ML models.
  #### Load and Display dataset <br>
-  !['load and display data'](screenshots/Screenshot%20(142).png) 
+  !['load and display data'](screenshots/Screenshot%20(142).png) <br>
  #### check null values  <br>
- !['Check Null values']](screenshots/Screenshot%20(143).png) 
+ !['Check Null values'](screenshots/Screenshot%20(143).png) <br>
  #### Drop and replace null values <br>
- ![drop and fill na](screenshots/Screenshot%20(144).png) 
- #### Display age destribution Using histo gram
- !['age Destribution'](screenshots/Screenshot%20(146).png)
- ### Display correation using Seaborn heatmap
- !['Corellations'](screenshots/Screenshot%20(153).png) 
+ ![drop and fill na](screenshots/Screenshot%20(144).png) <br>
+ #### Display age destribution Using histo gram <br>
+ !['age Destribution'](screenshots/Screenshot%20(146).png) <br>
+ ### Display correation using Seaborn heatmap <br>
+ !['Corellations'](screenshots/Screenshot%20(153).png)  <br>
 
-This step helped in preparing a cleaner and more informative dataset for ML models.
+
 
 
 ## 📊 Data Visualization with Matplotlib & Seaborn (3 hours)
